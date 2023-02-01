@@ -9,7 +9,13 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "vue": "^3.2.45"
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "firebase": "^9.16.0",
+    "pinia": "^2.0.29",
+    "sweetalert2": "^11.7.1",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
